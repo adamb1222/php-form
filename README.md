@@ -1,2 +1,4 @@
-# php-form
-A sample PHP form
+<?php
+echo '<p>This is PHP!</p>';
+?>
+<p>This is HTML!</p>
